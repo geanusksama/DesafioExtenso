@@ -1,9 +1,9 @@
 # DesafioExtenso
 O presente projeto é a solução do seguinte desafio:
 
-"Converter numeros para suas representação por extenso"
+"Converter numeros para suas representação por extenso, sejam eles positivos ou negativos"
 
-Arquiterura esta em NODEjs, usando restify
+Arquitetura esta em NODEjs, usando restify
 
 Dependencias
 npm install --global --production windows-build-tools
